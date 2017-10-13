@@ -1,0 +1,41 @@
+h1 {
+  color: purples;
+}
+
+h2 {
+  font-style: italic;
+  color: blue;
+}
+
+p {
+  color: darken;
+}
+h3 {
+  color:green
+}
+body {
+  background-color: brown;
+  font-family: sans-serif;
+  text-align: justify;
+}
+
+img {
+  float: left;
+}
+.test-box {
+  border-left: 2px solid red;
+  border-right: 2px solid blue;
+  border-top: 4px solid orange;
+  border-bottom: 82px solid black;
+}
+h3 {
+  font-style: italic;
+  color: blue;
+  alignment: left;
+}
+
+h5 {
+  font-style: italic;
+  color: blue;
+  alignment: left;
+  font-size: 25px;
